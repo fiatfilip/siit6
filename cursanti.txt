@@ -2,4 +2,8 @@ Filip Fiat
 Stefan Miuruna
 Bogdan Pasca
 Ursu Razvan
+<<<<<<< HEAD
 Alexuta Adrian
+=======
+Delete This
+>>>>>>> cb776ab7bf603182d7795cfce8a99a722cffbc36
