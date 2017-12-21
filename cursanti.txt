@@ -2,5 +2,9 @@ Filip Fiat
 Stefan Miuruna
 Bogdan Pasca
 Ursu Razvan
+<<<<<<< HEAD
 
 Mihai Ember
+=======
+Sinitean Ionut
+>>>>>>> master
