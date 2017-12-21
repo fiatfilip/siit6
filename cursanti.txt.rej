@@ -1,0 +1,10 @@
+diff a/cursanti.txt b/cursanti.txt	(rejected hunks)
+@@ -1,2 +1,6 @@
+ Filip Fiat
+-Stefan Miuruna
+\ No newline at end of file
++<<<<<<< HEAD
++Stefan Miuruna
++=======
++Bogdan Pasca
++>>>>>>> 6c69cf1fdb54bed9300cd54cb9a7f5750e2d9007
