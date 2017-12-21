@@ -6,8 +6,13 @@ Ramneantu Andreea
 Ursu Razvan
 Mihai Ember
 Sinitean Ionut
-Radu Costan
+Macoveiciuc Razavan
 Alexuta Adrian
+<<<<<<< HEAD
 rr
 
 
+=======
+Prodan Sebastian
+>>>>>>> a4a36ad9ca388d747ed6030d8025041b84d1d5e1
+sfdfdsswer
