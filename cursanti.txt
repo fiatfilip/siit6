@@ -3,8 +3,12 @@ Stefan Miuruna
 Bogdan Pasca
 Ursu Razvan
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Mihai Ember
+=======
+Sinitean Ionut
+>>>>>>> master
 =======
 Sinitean Ionut
 >>>>>>> master
