@@ -1,17 +1,18 @@
-Filip Fiat
-Stefan Miruna
-Bogdan Pasca
-Avram Diana
-Ramneantu Andreea
-Ursu Razvan
-Mihai Ember
-Sinitean Ionut
-Macoveiciuc Razavan
-Alexuta Adrian
-Prodan Sebastian
-Ruxandra Ciocan
-Delia Nagy
-Radu Costan
+1. Filip Fiat
+2. Stefan Miruna
+3. Bogdan Pasca
+4. Avram Diana
+5. Ramneantu Andreea
+6. Ursu Razvan
+7. Mihai Ember
+8. Sinitean Ionut
+9. Macoveiciuc Razavan
+10. Alexuta Adrian
+11. Prodan Sebastian
+12. Ruxandra Ciocan
+13. Delia Nagy
+14. Radu Costan
+15.........................................
 
 
 
